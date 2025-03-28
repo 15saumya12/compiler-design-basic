@@ -62,3 +62,4 @@ TO CREATE A LEXICAL ANALYZER, WE FOLLOW THESE STEPS:-
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/3702a2b2-35a2-4e12-86da-0f17145c5192)
